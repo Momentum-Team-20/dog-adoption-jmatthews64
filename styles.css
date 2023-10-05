@@ -69,6 +69,7 @@ img {
     display: flex;
     margin-top: 20px;
     justify-content: center;
+    height: 33vh;
 }
 
 .imgWrapper {
@@ -85,12 +86,31 @@ img {
     position: sticky;
     justify-content: center;
     align-items: center;
-    margin-top: -262px;
-    height: 99%;
+    height: 100%;
     width: 100%;
     background-color: rgba(110, 245, 234, 0.50);
     color: white;
     font-size: 58px;
+    
+}
+
+.donate {
+    background-image: url(file:///Users/jonathanmatthews/Momentum/dog-adoption-jmatthews64/starter_files/images/donate.jpg);
+}
+
+.volunteer{
+    background-image: url(file:///Users/jonathanmatthews/Momentum/dog-adoption-jmatthews64/starter_files/images/volunteer.jpg);
+}
+
+.location {
+    background-image: url(file:///Users/jonathanmatthews/Momentum/dog-adoption-jmatthews64/starter_files/images/location.png);
+}
+
+.donate, .volunteer, .location {
+    background-attachment: local;
+    background-size: cover;
+    background-position: center;
+
 }
 
 footer {
