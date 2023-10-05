@@ -77,10 +77,6 @@ img {
     height: auto;
 }
 
-.square {
-    aspect-ratio: 1;
-}
-
 .box {
     display: flex;
     position: sticky;
