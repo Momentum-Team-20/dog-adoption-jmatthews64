@@ -68,14 +68,19 @@ img {
 .navbar {
     display: flex;
     margin-top: 20px;
-    padding-bottom: -20px;
     justify-content: center;
+    border: thick solid red;
 }
 
 .imgWrapper {
     width: 33%;
+    height: auto;
 }
 
 .navbar, img {
     aspect-ratio: 1;
+}
+
+footer {
+    text-align: center;
 }
