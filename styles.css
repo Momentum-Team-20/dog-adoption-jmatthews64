@@ -69,7 +69,6 @@ img {
     display: flex;
     margin-top: 20px;
     justify-content: center;
-    border: thick solid red;
 }
 
 .imgWrapper {
