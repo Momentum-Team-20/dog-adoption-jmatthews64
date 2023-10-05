@@ -1,11 +1,12 @@
 h1 {
-    background-color: mediumblue;
+    background-color: darkslateblue;
     color: white;
     height: 100px;
     text-align: center;
     font-size: 64px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: -5px;
+    padding-top: 20px;
 }
 
 .mainSectionHead {
