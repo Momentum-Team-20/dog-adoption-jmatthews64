@@ -77,8 +77,13 @@ img {
     height: auto;
 }
 
-.navbar, img {
+.square {
     aspect-ratio: 1;
+}
+
+#donateCover {
+    text-align: center;
+    background-color: rgba(red, green, blue, alpha);
 }
 
 footer {
