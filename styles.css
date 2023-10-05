@@ -29,7 +29,6 @@ h1 {
 .adoptablePet {
     width: 30%;
     height: auto;
-    border: thick solid red;
 }
 
 img {
@@ -53,6 +52,7 @@ img {
     padding: 4px;
     border-radius: 20%;
     border: thin solid silver;
+    margin: 10px
 }
 
 /*Formats the description tag frames */
