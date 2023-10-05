@@ -80,9 +80,17 @@ img {
     aspect-ratio: 1;
 }
 
-#donateCover {
-    text-align: center;
-    background-color: rgba(red, green, blue, alpha);
+.box {
+    display: flex;
+    position: sticky;
+    justify-content: center;
+    align-items: center;
+    margin-top: -262px;
+    height: 99%;
+    width: 100%;
+    background-color: rgba(110, 245, 234, 0.50);
+    color: white;
+    font-size: 58px;
 }
 
 footer {
