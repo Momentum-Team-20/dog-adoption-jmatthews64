@@ -16,3 +16,22 @@ h1 {
     font-weight: bolder;
     margin-left: 50px;
 }
+
+.petInfo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    max-width: 100%;
+    border: thick solid yellow;
+}
+
+.adoptablePet {
+    width: 30%;
+    height: auto;
+    border: thick solid red;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
